@@ -10,6 +10,10 @@ A-06;Balkarov 3
 A-06;Balkarov 3
 A-06;Balkarov 5
 A-06;Balkarov 5
+A-06;Burov 3
+A-06;Burov 4
+A-06;Burov 4
+A-06;Burov 4
 A-06;Cherkashina 3
 A-06;Cherkashina 4
 A-06;Cherkashina 4
@@ -18,10 +22,22 @@ A-06;Gasanov 3
 A-06;Gasanov 3
 A-06;Gasanov 5
 A-06;Gasanov 5
+A-06;Guliayeva 3
+A-06;Guliayeva 4
+A-06;Guliayeva 4
+A-06;Guliayeva 5
+A-06;Ilin 3
+A-06;Ilin 3
+A-06;Ilin 4
+A-06;Ilin 4
 A-06;Itskovich 3
 A-06;Itskovich 3
 A-06;Itskovich 3
 A-06;Itskovich 4
+A-06;Matveeva 3
+A-06;Matveeva 3
+A-06;Matveeva 3
+A-06;Matveeva 5
 A-06;Penzina 3
 A-06;Penzina 4
 A-06;Penzina 4
@@ -42,6 +58,14 @@ A-06;Vlasova 3
 A-06;Vlasova 3
 A-06;Vlasova 3
 A-06;Vlasova 4
+A-06;Yeremeev 3
+A-06;Yeremeev 3
+A-06;Yeremeev 4
+A-06;Yeremeev 5
+A-09;Afonin 3
+A-09;Afonin 4
+A-09;Afonin 5
+A-09;Afonin 5
 A-09;Akramov 3
 A-09;Akramov 3
 A-09;Akramov 4
@@ -54,6 +78,10 @@ A-09;Baranovich 3
 A-09;Baranovich 4
 A-09;Baranovich 5
 A-09;Baranovich 5
+A-09;Griaznov 3
+A-09;Griaznov 3
+A-09;Griaznov 3
+A-09;Griaznov 4
 A-09;Gudz 3
 A-09;Gudz 3
 A-09;Gudz 3
@@ -74,6 +102,14 @@ A-09;Likhanova 4
 A-09;Likhanova 4
 A-09;Likhanova 4
 A-09;Likhanova 5
+A-09;Makarov 4
+A-09;Makarov 4
+A-09;Makarov 4
+A-09;Makarov 5
+A-09;Osipov 3
+A-09;Osipov 4
+A-09;Osipov 5
+A-09;Osipov 5
 A-09;Riabov 4
 A-09;Riabov 4
 A-09;Riabov 4
@@ -98,4 +134,4 @@ A-09;Stepanishch 3
 A-09;Stepanishch 3
 A-09;Stepanishch 3
 A-09;Stepanishch 4
-336
+1123
